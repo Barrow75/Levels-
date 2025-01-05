@@ -24,12 +24,13 @@ def EvenOdd():
 EvenOdd()
 
 def Even_Odd(num):
-    num = int(input("The number is: "))
+
     if num % 2 == 0:
-        result = num
-        print(result)
+        return  f""
 
     else:
         print("Odd")
 
-Even_Odd()
+num = int(input("The number is: "))
+result = Even_Odd(num)
+print(result)
