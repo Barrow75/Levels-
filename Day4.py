@@ -35,6 +35,9 @@ while True:
     while True:
             try:
                 num2 = int(input("Enter another number: "))
+                if operations == '/' and num2 ==0:
+                    print("Invalid operator: Cannot Divide by 0")
+                    continue
                 print("Valid Input")
                 break
 
