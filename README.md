@@ -8,4 +8,5 @@ New year so that means I will start from the very basics again and progressively
 - Day3.py: Beginner program that just takes an users input of numbers, puts them in a list, and then gives you the sum of the numbers <br />
 - Day4.py: A simple calculator that takes in 2 numbers and uses a try-except for invalid inputs (~ 15 minutes) <br />
 - Day5.py: A grade calculator that tells you what your grade average <br />
-- Day6.py: A simple calculator that uses uses functions and calls the appropriate function during calculations
+- Day6.py: A simple calculator that uses uses functions and calls the appropriate function during calculations <br />
+- Day7.py: Fucntions that convert Celcius, Fahrenheit, and Kelvin
