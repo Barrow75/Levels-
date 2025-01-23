@@ -9,4 +9,7 @@ New year so that means I will start from the very basics again and progressively
 - Day4.py: A simple calculator that takes in 2 numbers and uses a try-except for invalid inputs (~ 15 minutes) <br />
 - Day5.py: A grade calculator that tells you what your grade average <br />
 - Day6.py: A simple calculator that uses uses functions and calls the appropriate function during calculations <br />
-- Day7.py: Fucntions that convert Celcius, Fahrenheit, and Kelvin
+- Day7.py: Function that convert Celcius, Fahrenheit, and Kelvin
+- Day8.py: Library management using dictionaries and functions
+- Day9.py: Dice rolling
+
