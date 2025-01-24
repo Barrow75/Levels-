@@ -12,4 +12,5 @@ New year so that means I will start from the very basics again and progressively
 - Day7.py: Function that convert Celcius, Fahrenheit, and Kelvin
 - Day8.py: Library management using dictionaries and functions
 - Day9.py: Dice rolling
+- Day10.py: Precise age calculations with datetime and dateutil.relativedelta
 
